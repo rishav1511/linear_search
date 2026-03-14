@@ -16,5 +16,11 @@ if answer == "graphics processing unit":
     score+=5
 else:
     print("incorrect")
+answer=input("What is FTP? ")
+if answer == "file transfer protocol":
+    print("correct")
+    score+=5
+else:
+    print("incorrect")
 print("Your final score is ",score)
  
