@@ -1,0 +1,5 @@
+print("Welcome to computer quiz")
+ans=input("Do you want to play yes/no")
+if ans == "no":
+    quit()
+ 
